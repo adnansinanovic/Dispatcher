@@ -1,0 +1,5 @@
+Dispatcher.Example/bin/
+Dispatcher/obj/
+Dispatcher.Example/obj/
+Dispatcher/bin/Debug/
+*.suo
